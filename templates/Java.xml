@@ -1,0 +1,13 @@
+<templateSet group="Java">
+  <template name="ss" value="String " description="String" toReformat="false" toShortenFQNames="false">
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="tdd" value="// given&#10;// when&#10;// then" description="tdd" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
