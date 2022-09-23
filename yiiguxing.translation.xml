@@ -1,0 +1,16 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Returns a new CompletionStage that, when this stage completes normally, is executed with this stage's result as the argument to the supplied function. This method is analogous to Optional.map and Stream.map. See the CompletionStage documentation for rules covering exceptional completion. Params: fn – the function to use to compute the value of the returned CompletionStage Returns: the new CompletionStag" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="KOREAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1663952316209" />
+  </component>
+</application>
