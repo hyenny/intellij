@@ -13,4 +13,18 @@
   <component name="Cache">
     <option name="lastTrimTime" value="1682155983978" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1689445282709" />
+  </component>
+  <component name="Translation.States">
+    <histories>
+      <item value="Finally, configure your desired URL in `siteConfig.js`, so links (e. g. canonical links) are generated correctly. You can also update other default values, such as `postsPerPage` in this file." />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="KOREAN" value="1" />
+      </map>
+    </option>
+  </component>
 </application>
