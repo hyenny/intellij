@@ -18,13 +18,14 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Star Rating Verifier" />
       <item value="Convert Split On Pipe" />
       <item value="Finally, configure your desired URL in `siteConfig.js`, so links (e. g. canonical links) are generated correctly. You can also update other default values, such as `postsPerPage` in this file." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="2" />
-        <entry key="KOREAN" value="2" />
+        <entry key="ENGLISH" value="3" />
+        <entry key="KOREAN" value="3" />
       </map>
     </option>
   </component>
